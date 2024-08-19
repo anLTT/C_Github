@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Work\\C_Github\\VS\\Test_2024_8_19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30BDCCCD-AD3D-4D11-B035-820C0DDC7AA8}|Test_2024_8_19\\Test_2024_8_19.vcxproj|E:\\Code\\Work\\C_Github\\VS\\Test_2024_8_19\\Test_2024_8_19\\homework.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30BDCCCD-AD3D-4D11-B035-820C0DDC7AA8}|Test_2024_8_19\\Test_2024_8_19.vcxproj|solutionrelative:Test_2024_8_19\\homework.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homework.c",
+              "DocumentMoniker": "E:\\Code\\Work\\C_Github\\VS\\Test_2024_8_19\\Test_2024_8_19\\homework.c",
+              "RelativeDocumentMoniker": "Test_2024_8_19\\homework.c",
+              "ToolTip": "E:\\Code\\Work\\C_Github\\VS\\Test_2024_8_19\\Test_2024_8_19\\homework.c",
+              "RelativeToolTip": "Test_2024_8_19\\homework.c",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAcwIQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-19T11:25:59.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

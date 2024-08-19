@@ -1,0 +1,3 @@
+﻿  homework.c
+E:\Code\Work\C_Github\VS\Test_2024_8_19\Test_2024_8_19\homework.c(125,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Test_2024_8_19.vcxproj -> E:\Code\Work\C_Github\VS\Test_2024_8_19\Test_2024_8_19\x64\Debug\Test_2024_8_19.exe
