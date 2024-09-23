@@ -35,7 +35,7 @@
 // }
 
 
-// //字符分类函数总概
+// //字符分类函数总概   ----------------->用于判断
 // #include <ctype.h>
 // //要接收返回值
 //             //如果参数符合以下条件则返回真
@@ -53,10 +53,71 @@
 
 
 
+// //字符转换函数总概     ------------------->用于改写
+// #include <ctype.h>
+
+// int tolower(int c);//将参数传进去的大写字母转小写    所以只能一个个转换?
+// int toupper(int c);//将参数传进去的小写字母转大写
+
+// #include <stdio.h>
+// #include <ctype.h>
+// int main()
+// {
+//     printf("%c\n",toupper('a'));
+//     printf("%c\n",tolower('B'));
+//     printf("%c\n",toupper('B'));
+//     return 0;
+// }
 
 
 
 
+// #include <stdio.h>
+// #include <ctype.h>
+
+// int main()
+// {
+//     char arr[] = "I Am A Student";
+
+//     int i = 0;
+
+//     while(arr[i] != '\0')
+//     {
+//         if(islower(arr[i]))
+//         {
+//             arr[i] = toupper(arr[i]);
+//         }
+//         i++;
+//     }
+
+//     printf("%s",arr);
+
+//     return 0;
+// }
+
+
+#include <stdio.h>
+#include <ctype.h>
+
+int main()
+{
+    char arr[] = "I Am a Student!";
+
+    int i = 0;
+
+    while(arr[i] != '\0')
+    {
+        if(isupper(arr[i]))
+        {
+            arr[i] = tolower(arr[i]);
+        }
+        i++;
+    }
+
+    printf("%s\n",arr);
+
+    return 0;
+}
 
 
 
