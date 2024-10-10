@@ -96,36 +96,52 @@
 // }
 
 
+// #include <stdio.h>
+// #include <ctype.h>
+
+// int main()
+// {
+//     char arr[] = "I Am a Student!";
+
+//     int i = 0;
+
+//     while(arr[i] != '\0')
+//     {
+//         if(isupper(arr[i]))
+//         {
+//             arr[i] = tolower(arr[i]);
+//         }
+//         i++;
+//     }
+
+//     printf("%s\n",arr);
+
+//     return 0;
+// }
+
+//strlen的使用和模拟实现
+
+
+
+
+
+
+//strcpy的使用和模拟实现
 #include <stdio.h>
-#include <ctype.h>
+#include <string.h>
 
 int main()
 {
-    char arr[] = "I Am a Student!";
+    char arr1[] = "hello world";
+    char arr2[8] = {0};
 
-    int i = 0;
+    strcpy(arr2,arr1);
 
-    while(arr[i] != '\0')
-    {
-        if(isupper(arr[i]))
-        {
-            arr[i] = tolower(arr[i]);
-        }
-        i++;
-    }
+    printf("%s\n",arr2);
 
-    printf("%s\n",arr);
 
     return 0;
 }
-
-
-
-
-
-
-
-
 
 
 

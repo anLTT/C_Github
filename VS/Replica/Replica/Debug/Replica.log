@@ -1,0 +1,3 @@
+﻿  test.c
+E:\Code\Work\C_Github\VS\Replica\test_2024_9_20\test.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Code\Work\C_Github\VS\Replica\test_2024_9_20\test.c(149,1): error C1071: 在注释中遇到意外的文件结束

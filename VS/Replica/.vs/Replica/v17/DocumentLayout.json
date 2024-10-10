@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Code\\Work\\C_Github\\VS\\Replica\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B989FDB7-DE79-4498-885C-842D3CC97112}|Replica.vcxproj|E:\\Code\\Work\\C_Github\\VS\\Replica\\test_2024_9_20\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B989FDB7-DE79-4498-885C-842D3CC97112}|Replica.vcxproj|solutionrelative:test_2024_9_20\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "E:\\Code\\Work\\C_Github\\VS\\Replica\\test_2024_9_20\\test.c",
+              "RelativeDocumentMoniker": "test_2024_9_20\\test.c",
+              "ToolTip": "E:\\Code\\Work\\C_Github\\VS\\Replica\\test_2024_9_20\\test.c",
+              "RelativeToolTip": "test_2024_9_20\\test.c",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-24T05:23:02.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
