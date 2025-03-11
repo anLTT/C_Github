@@ -126,19 +126,34 @@
 
 
 
-//strcpy的使用和模拟实现
+// //strcpy的使用和模拟实现
+// #include <stdio.h>
+// #include <string.h>
+
+// int main()
+// {
+//     char arr1[] = "hello world";
+//     char arr2[8] = {0};
+
+//     strcpy(arr2,arr1);
+
+//     printf("%s\n",arr2);
+
+
+//     return 0;
+// }
+
 #include <stdio.h>
-#include <string.h>
 
 int main()
 {
-    char arr1[] = "hello world";
-    char arr2[8] = {0};
-
-    strcpy(arr2,arr1);
-
-    printf("%s\n",arr2);
-
+    int a = 0;
+    int b = 1;
+    if(a == 1)
+        if(b == 1)
+            printf("hehe\n");
+    else
+        printf("haha111111\n");
 
     return 0;
 }
